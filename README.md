@@ -1,6 +1,6 @@
 # Self Check-in using Amazon Rekognition
 
-Service Architecture
+<b>Service Architecture</b>
 
-<img width="898" alt="image" src="https://user-images.githubusercontent.com/56906461/208331010-2623481c-ccd4-44c0-8f5e-955834b8e12d.png">
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/56906461/208331097-0a8d60f2-7188-4297-92e8-a9d804fa08e6.png">
 
