@@ -2,7 +2,10 @@
 
 <b>Service Architecture</b>
 
+
 ![image](https://user-images.githubusercontent.com/56906461/208331253-d8b79a8b-624d-4a59-9962-36290981420c.png)
+
+
 
 1) 숙소와 항공권 예매를 위해 사용자는 Mobile Device(Mobile phone, Tablet, Labtop 등)를 이용해서 예매 페이지에 접속. 웹페이지를 접속하기 위해 AWS의 DNS 서비스인 Amazon Route53 (https://aws.amazon.com/ko/route53/)을 통해 CDN 서비스인 Amazon CloudFront (https://aws.amazon.com/ko/cloudfront/)의 도메인 주소를 식별하여 예매 웹 사이트로 접속
 
