@@ -14,6 +14,7 @@ spec:
       labels:
         app: demoapp-service
     spec:
+      serviceAccountName: custom-eks-sa
       containers:
       - name: demoapp-service
         image: 컨테이너 이미지 경로 작성
